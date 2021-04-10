@@ -1,0 +1,5 @@
+#Messages for player joins
+
+FirstJoin: '&1<player> &dhas joined for the first time!'
+join: '&1<player> &dhas joined the game!'
+leave: '&1<player> &dhas left the game!'

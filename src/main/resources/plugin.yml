@@ -1,0 +1,6 @@
+name: JoinMessages
+version: ${project.version}
+main: me.krymz0n.join.Main
+authors: [ KRYMZ0N ]
+description: A plugin that allows you to change player join messages and leave messages
+website: http://www.16b16t.net/
